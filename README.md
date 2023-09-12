@@ -3,7 +3,7 @@ Sub-repository of the MerbuzPixel project. Library on Python (not Micropython) f
 
 ## How it work?
 
-Just download and import this library. After that, call `merbuzPixelCreate` function and load filename of picture.
+Just download and import this library. After that, call `merbuzPixelCreate` function and load filename of picture. **important note: width and height MUSE BE THE SAME**
 
 ```python
 from merbuzpixelimage import *
