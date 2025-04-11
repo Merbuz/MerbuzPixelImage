@@ -1,3 +1,5 @@
+The project is abandoned and not being updated due to the loss of my interest in MicroPython, as well as bad code in the project.
+
 # MerbuzPixelImage
 Sub-repository of the MerbuzPixel project. Library on Python (not Micropython) for creating files for draw images.
 
